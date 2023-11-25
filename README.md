@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-![Screenshot 2023-11-25 092133](https://github.com/vishal23000591/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/147139719/83ca57d3-71c0-4cdf-b9ee-90d557dc68b4)
+![Screenshot 2023-11-25 092133](https://github.com/vishal23000591/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/147139719/2a39c43d-70d9-4212-b660-6d3f51c9d6d7)
+
 
 
 
